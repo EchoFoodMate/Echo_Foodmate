@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Issue Template
 about: Describe this issue template's purpose here.
 title: 예시) [FEAT] 이슈 제목
 labels: ''
